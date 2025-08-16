@@ -37,6 +37,7 @@ Built with **HTML**, **CSS**, and **Vanilla JavaScript** (no frameworks).
 ---
 
 ## 🎨 Design  
-Figma design prototype: **https://www.figma.com/design/r5QPmhs8h7Ka0JfBvWkhXW/The-Digital-Shelf?node-id=0-1&t=TqV5P09ipxMm5fNs-1**  
+Figma design prototype: [![View in Figma](https://img.shields.io/badge/View%20in%20Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/r5QPmhs8h7Ka0JfBvWkhXW/The-Digital-Shelf?node-id=0-1&t=TqV5P09ipxMm5fNs-1)
+
 
 ---
