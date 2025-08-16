@@ -1,0 +1,102 @@
+.welcome-section {
+  display: flex;
+  gap: 87px;
+  justify-content: center;
+}
+.welcome-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 48px;
+  max-width: 500px;
+}
+.welcome-text h2 {
+  color: var(--primary);
+  font-size: 48px;
+}
+.welcome-text,
+.mission-section p {
+  font-size: 36px;
+  color: var(--headings);
+}
+.welcome-img {
+  max-width: 512px;
+  height: auto;
+}
+.mission-section {
+  display: flex;
+  justify-content: center;
+  gap: 184px;
+  margin-bottom: 80px;
+}
+.mission-heading {
+  font-size: 64px;
+  color: var(--primary);
+}
+.mission-section p {
+  max-width: 680px;
+}
+.contact-section {
+  border-top: 1px solid #d8d8d8;
+  padding-top: 49.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.contact-section h4 {
+  color: var(--primary);
+  font-size: 24px;
+  font-family: "Lato", sans-serif;
+}
+.contact-section p {
+  color: var(--headings);
+  font-size: 15px;
+}
+.contact .btn {
+  font-size: 20px;
+}
+@media (max-width: 480px) {
+  .welcome-section {
+    margin-top: 48px;
+    flex-direction: column;
+    gap: 29px;
+    align-items: center;
+  }
+  .welcome-text {
+    text-align: center;
+    gap: 25px;
+  }
+  .welcome-text h2 {
+    font-size: 30px;
+  }
+  .welcome-section p {
+    max-width: 230px;
+    margin: auto;
+  }
+  .welcome-text,
+  .mission-section p {
+    font-size: 23px;
+  }
+  .welcome-img {
+    max-width: 268px;
+  }
+  .mission-section {
+    flex-direction: column;
+    text-align: center;
+    gap: 28px;
+    margin-bottom: 36px;
+  }
+  .mission-heading {
+    font-size: 30px;
+  }
+  .contact-section h4 {
+    font-size: 16px;
+  }
+  .contact-section p {
+    font-size: 8px;
+  }
+  .contact .btn {
+    font-size: 10px;
+  }
+}

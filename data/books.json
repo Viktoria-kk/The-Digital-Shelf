@@ -1,0 +1,380 @@
+[
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "rating": 4,
+    "genre": "Classic Fiction",
+    "description": "Jane Eyre is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/jane-eyre.jpg",
+    "releaseDate": "October 16, 1847"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "rating": 5,
+    "genre": "Classic Fiction",
+    "description": "Wuthering Heights is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/wuthering-heights.jpg",
+    "releaseDate": "December 01, 1847"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "rating": 4,
+    "genre": "Classic Fiction",
+    "description": "Little Women is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/little-women.jpg",
+    "releaseDate": "September 30, 1868"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": 4,
+    "genre": "Historical Fiction",
+    "description": "To Kill a Mockingbird is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/to-kill-a-mockingbird.jpg",
+    "releaseDate": "July 11, 1960"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "Harry Potter and the Chamber of Secrets is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/harry-potter-and-the-chamber-of-secrets.jpg",
+    "releaseDate": "June 22, 2012"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "rating": 4,
+    "genre": "Philosophical Fiction",
+    "description": "The Alchemist is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-alchemist.jpg",
+    "releaseDate": "April 15, 1988"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "Harry Potter and the Order of the Phoenix is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/harry-potter-and-the-order-of-the-phoenix.jpg",
+    "releaseDate": "June 26, 2007"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "rating": 5,
+    "genre": "Fantasy",
+    "description": "Harry Potter and the Half-Blood Prince is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/harry-potter-and-the-half-blood-prince.jpg",
+    "releaseDate": "September 21, 1996"
+  },
+  {
+    "title": "Once Upon a Broken Heart",
+    "author": "Stephanie Garber",
+    "rating": 5,
+    "genre": "Fantasy Romance",
+    "description": "Once Upon a Broken Heart is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/once-upon-a-broken-heart.jpg",
+    "releaseDate": "October 16, 2007"
+  },
+  {
+    "title": "One Dark Window",
+    "author": "Rachel Gillig",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "One Dark Window is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/one-dark-window.jpg",
+    "releaseDate": "January 07, 2001"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "L.M. Montgomery",
+    "rating": 4,
+    "genre": "Children's Classic",
+    "description": "Anne of Green Gables is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/anne-of-green-gables.jpg",
+    "releaseDate": "June 20, 1908"
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "rating": 5,
+    "genre": "Dark Academia",
+    "description": "The Secret History is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-secret-history.jpg",
+    "releaseDate": "September 01, 1992"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "rating": 5,
+    "genre": "Classic Fiction",
+    "description": "The Great Gatsby is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-great-gatsby.jpg",
+    "releaseDate": "April 10, 1925"
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "rating": 5,
+    "genre": "Philosophical Fiction",
+    "description": "The Little Prince is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-little-prince.jpg",
+    "releaseDate": "April 06, 1943"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "rating": 4,
+    "genre": "Children's Classic",
+    "description": "The Secret Garden is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-secret-garden.jpg",
+    "releaseDate": "August 01, 1911"
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "rating": 4,
+    "genre": "Allegorical Fiction",
+    "description": "Lord of the Flies is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/lord-of-the-flies.jpg",
+    "releaseDate": "September 17, 1954"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "rating": 4,
+    "genre": "Romance",
+    "description": "Pride and Prejudice is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/pride-and-prejudice.jpg",
+    "releaseDate": "January 28, 1813"
+  },
+  {
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "Six of Crows is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/six-of-crows.jpg",
+    "releaseDate": "October 14, 2006"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "rating": 5,
+    "genre": "Gothic Fiction",
+    "description": "Frankenstein is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/frankenstein.jpg",
+    "releaseDate": "January 01, 1818"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "rating": 4,
+    "genre": "Dystopian Fiction",
+    "description": "1984 is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/1984.jpg",
+    "releaseDate": "June 08, 1949"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "rating": 5,
+    "genre": "Mystery",
+    "description": "Murder on the Orient Express is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/murder-on-the-orient-express.jpg",
+    "releaseDate": "January 01, 1934"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "rating": 4,
+    "genre": "Psychological Fiction",
+    "description": "The Bell Jar is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-bell-jar.jpg",
+    "releaseDate": "January 14, 1963"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "rating": 5,
+    "genre": "Fantasy Romance",
+    "description": "A Court of Thorns and Roses is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/a-court-of-thorns-and-roses.jpg",
+    "releaseDate": "April 03, 2011"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "rating": 4,
+    "genre": "Mythological Fiction",
+    "description": "Circe is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/circe.jpg",
+    "releaseDate": "January 26, 2017"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "rating": 4,
+    "genre": "Contemporary Fiction",
+    "description": "Normal People is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/normal-people.jpg",
+    "releaseDate": "December 22, 2020"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "rating": 4,
+    "genre": "Speculative Fiction",
+    "description": "The Midnight Library is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-midnight-library.jpg",
+    "releaseDate": "November 05, 2018"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "rating": 4,
+    "genre": "Historical Fiction",
+    "description": "The Book Thief is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-book-thief.jpg",
+    "releaseDate": "July 13, 2023"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "rating": 4,
+    "genre": "Mythological Fiction",
+    "description": "The Song of Achilles is a profound and captivating novel that explores deeply human themes such as identity, struggle, and the complexity of relationships. With beautifully crafted prose and unforgettable characters, the story invites readers into a rich world full of emotional depth and timeless lessons. This book leaves a lasting impression through its intricate storytelling and the universal truths it reveals about the human experience.",
+    "image": "./assets/images/the-song-of-achilles.jpg",
+    "releaseDate": "December 04, 2001"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "rating": 4,
+    "genre": "Classic Romance",
+    "description": "Persuasion is a timeless exploration of second chances, quiet strength, and enduring love. Jane Austen masterfully crafts a story around Anne Elliot, a woman who is forced to choose between duty and heart. With elegant prose and profound insight into human emotions, the novel delicately portrays the bittersweet nature of regret and the redemptive power of true affection.",
+    "image": "./assets/images/persuasion.jpg",
+    "releaseDate": "December 20, 1817"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "author": "Gabrielle-Suzanne Barbot de Villeneuve",
+    "rating": 4,
+    "genre": "Fairy Tale",
+    "description": "Beauty and the Beast is a classic fairy tale that weaves enchantment, sacrifice, and the transformative power of love into a magical narrative. Through the journey of Beauty, a young woman who discovers kindness and humanity beneath a monstrous exterior, the story teaches readers to look beyond appearances and embrace the depth of the soul.",
+    "image": "./assets/images/beauty-and-the-beast.jpg",
+    "releaseDate": "April 01, 1740"
+  },
+  {
+    "title": "Dance of Thieves",
+    "author": "Mary E. Pearson",
+    "rating": 4,
+    "genre": "Young Adult Fantasy",
+    "description": "Dance of Thieves is a thrilling adventure filled with danger, loyalty, and forbidden romance. Set in a richly imagined world where power struggles and hidden agendas abound, the story follows a former street thief and a young leader from a powerful dynasty as they are forced into an uneasy alliance. Their journey tests their beliefs, loyalty, and hearts.",
+    "image": "./assets/images/dance-of-thieves.jpg",
+    "releaseDate": "August 19, 1999"
+  },
+  {
+    "title": "Vow of Thieves",
+    "author": "Mary E. Pearson",
+    "rating": 4,
+    "genre": "Young Adult Fantasy",
+    "description": "Vow of Thieves continues the gripping saga of love, betrayal, and resistance. As power shifts and enemies close in, Kazi and Jase must rely on their bond and resilience to survive. This sequel raises the stakes with emotional intensity and political intrigue, delivering a satisfying blend of action and heart.",
+    "image": "./assets/images/vow-of-thieves.jpg",
+    "releaseDate": "January 20, 2021"
+  },
+  {
+    "title": "The Prison Healer",
+    "author": "Lynette Noni",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "The Prison Healer is a dark and gripping tale of endurance, secrets, and unexpected hope. Kiva, a healer imprisoned in a ruthless facility, must navigate deadly trials and hidden truths while carrying a secret mission. With rich world-building and emotional depth, this story explores themes of survival and sacrifice in a brutal yet captivating setting.",
+    "image": "./assets/images/the-prison-healer.jpg",
+    "releaseDate": "July 11, 2019"
+  },
+  {
+    "title": "Defy the Night",
+    "author": "Brigid Kemmerer",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "Defy the Night is a fast-paced, emotionally driven fantasy about rebellion, justice, and compassion. In a kingdom plagued by disease and ruled by fear, a daring outlaw and a conflicted prince must challenge the system from within. With a strong heroine, political intrigue, and slow-burning romance, the book delivers a compelling story of courage and hope.",
+    "image": "./assets/images/defy-the-night.jpg",
+    "releaseDate": "November 17, 2017"
+  },
+  {
+    "title": "The Ballad of Never After",
+    "author": "Stephanie Garber",
+    "rating": 4,
+    "genre": "Fantasy Romance",
+    "description": "The Ballad of Never After spins a beautifully enchanting story filled with magic, heartbreak, and impossible choices. With lyrical prose and unpredictable twists, it follows Evangeline Fox and the enigmatic Prince of Hearts through a world where legends and curses intertwine. Every page is soaked in wonder, peril, and passion.",
+    "image": "./assets/images/the-ballad-of-never-after.jpg",
+    "releaseDate": "October 01, 2002"
+  },
+  {
+    "title": "After Dark",
+    "author": "Haruki Murakami",
+    "rating": 4,
+    "genre": "Literary Fiction",
+    "description": "After Dark is a haunting, dreamlike exploration of urban loneliness, connection, and surrealism. Set in Tokyo over the course of one night, Murakami masterfully blends reality with the subconscious as characters drift through neon-lit spaces and quiet revelations. The book invites readers to reflect on the blurred boundaries between waking life and dreams.",
+    "image": "./assets/images/after-dark.jpg",
+    "releaseDate": "January 24, 2010"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "rating": 4,
+    "genre": "Magical Realism",
+    "description": "Kafka on the Shore is a mesmerizing narrative that intertwines two parallel journeys\u2014one of a runaway teenager and another of an old man who talks to cats. Murakami blends philosophy, myth, and the subconscious into a narrative rich with symbolism and mystery. It\u2019s a thought-provoking story that defies logic while exploring identity and fate.",
+    "image": "./assets/images/kafka-on-the-shore.jpg",
+    "releaseDate": "October 07, 1995"
+  },
+  {
+    "title": "The Kiss of Deception",
+    "author": "Mary E. Pearson",
+    "rating": 4,
+    "genre": "Young Adult Fantasy",
+    "description": "The Kiss of Deception delivers a captivating tale of a runaway princess, a ruthless assassin, and a secret prince. With layers of deception and slow-unfolding truths, the novel challenges perceptions and keeps readers guessing. It's a masterclass in suspenseful storytelling with strong female leads and vivid world-building.",
+    "image": "./assets/images/the-kiss-of-deception.jpg",
+    "releaseDate": "November 22, 2005"
+  },
+  {
+    "title": "All the Bright Places",
+    "author": "Jennifer Niven",
+    "rating": 4,
+    "genre": "Young Adult Contemporary",
+    "description": "All the Bright Places is a poignant and emotionally raw novel that explores love, mental illness, and the fleeting nature of life. Through the story of Violet and Finch, two teens struggling with grief and identity, Niven crafts a heart-wrenching and beautifully honest portrayal of healing and human connection.",
+    "image": "./assets/images/all-the bright-places.jpg",
+    "releaseDate": "October 12, 2007"
+  },
+  {
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "rating": 4,
+    "genre": "Fantasy",
+    "description": "The Cruel Prince is a gripping tale of political intrigue, betrayal, and ambition in a dark and dangerous fae world. Jude, a mortal girl in a realm of cruel immortals, must fight for power and acceptance. With razor-sharp tension and unpredictable twists, this story seduces readers into a world where no one can be trusted.",
+    "image": "./assets/images/the-cruel-prince.jpg",
+    "releaseDate": "December 12, 2021"
+  },
+  {
+    "title": "Metamorphosis",
+    "author": "Franz Kafka",
+    "rating": 4,
+    "genre": "Philosophical Fiction",
+    "description": "Metamorphosis is a surreal and harrowing portrayal of alienation and identity. Gregor Samsa\u2019s inexplicable transformation into a monstrous insect serves as a powerful metaphor for the human condition, societal rejection, and existential despair. Kafka\u2019s chilling narrative style and haunting imagery make this a cornerstone of modernist literature.",
+    "image": "./assets/images/metamorphosis.jpg",
+    "releaseDate": "October 01, 1915"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "rating": 4,
+    "genre": "Dark Fantasy",
+    "description": "Coraline is a deliciously eerie and imaginative tale about bravery, curiosity, and the importance of self-worth. When Coraline discovers a door to a seemingly perfect alternate world, she must confront its sinister secrets. Gaiman weaves a modern fairy tale that\u2019s as unsettling as it is empowering, perfect for both younger and older readers.",
+    "image": "./assets/images/coraline.jpg",
+    "releaseDate": "August 04, 2002"
+  }
+]

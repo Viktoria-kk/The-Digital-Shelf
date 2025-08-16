@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Us</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/about.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="logo"><a href="index.html">The Digital Shelf</a></h1>
+      <nav class="navbar">
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./categories.html">Categories</a></li>
+          <li><a href="./about.html">About</a></li>
+        </ul>
+      </nav>
+      <div class="search">
+        <p>Search</p>
+        <i><img src="./assets/icons/search.png" alt="search-icon" /></i>
+        <input type="text" id="search-input" placeholder="Search books..." />
+        <div id="search-results" class="search-results"></div>
+      </div>
+      <img
+        src="./assets/icons/burger.png"
+        id="burgerBtn"
+        class="burger-menu"
+        style="display: none"
+        alt="burger-menu"
+      />
+      <nav class="mobile-menu" id="mobileMenu">
+        <img
+          src="./assets/icons/close.png"
+          class="burger-menu close"
+          id="closeBtn"
+          alt="Close"
+        />
+        <a href="./index.html">Home</a>
+        <a href="./categories.html">Categories</a>
+        <a href="./about.html">About</a>
+      </nav>
+    </header>
+    <main>
+      <section class="welcome-section">
+        <div class="welcome-text">
+          <h2>Welcome to <br />The Digital Shelf!</h2>
+          <p>
+            A space for book lovers to explore, discover, and fall in love with
+            stories.
+          </p>
+        </div>
+        <img
+          src="./assets/img/bookshelf.png"
+          alt="Bookshelf"
+          class="welcome-img"
+        />
+      </section>
+
+      <section class="mission-section">
+        <h3 class="mission-heading">
+          Our<br /><span class="highlight">Mission</span>
+        </h3>
+        <p>
+          This site was born from a simple idea: books connect us. Our goal is
+          to create a space where every story—whether classic or
+          contemporary—has a place to shine. <br />From heartfelt reviews to
+          curated collections, we're here to guide readers through the
+          ever-growing world of literature.
+        </p>
+      </section>
+
+      <section class="contact-section">
+        <h4>WANT TO GET IN TOUCH OR SUGGEST A BOOK?</h4>
+        <p>
+          We'd love to hear from you! Reach out with your questions, feedback,
+          or favorite reads.
+        </p>
+        <button class="contact btn">Contact Us</button>
+      </section>
+    </main>
+    <footer>
+      <p>© 2025. All rights reserved, developed by Viktoria Kazarovi</p>
+    </footer>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

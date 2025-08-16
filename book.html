@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Details</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/book.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="logo"><a href="index.html">The Digital Shelf</a></h1>
+      <nav class="navbar">
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./categories.html">Categories</a></li>
+          <li><a href="./about.html">About</a></li>
+        </ul>
+      </nav>
+      <div class="search">
+        <p>Search</p>
+        <i><img src="./assets/icons/search.png" alt="search-icon" /></i>
+        <input type="text" id="search-input" placeholder="Search books..." />
+        <div id="search-results" class="search-results"></div>
+      </div>
+      <img
+        src="./assets/icons/burger.png"
+        id="burgerBtn"
+        class="burger-menu"
+        style="display: none"
+        alt="burger-menu"
+      />
+      <nav class="mobile-menu" id="mobileMenu">
+        <img
+          src="./assets/icons/close.png"
+          class="burger-menu close"
+          id="closeBtn"
+          alt="Close"
+        />
+        <a href="./index.html">Home</a>
+        <a href="./categories.html">Categories</a>
+        <a href="./about.html">About</a>
+      </nav>
+    </header>
+    <main class="book-detail">
+      <div class="book-left">
+        <button class="back-btn">
+          <div class="back-arrow">
+            <img src="./assets/icons/back-arrow.png" alt="back-arrow" />
+          </div>
+          Back Home
+        </button>
+        <div class="author-title">
+          <h2 id="book-title"></h2>
+          <h3 id="book-author"></h3>
+        </div>
+        <div class="stars"></div>
+        <div class="text">
+          <p>
+            <span class="label">Release Date:</span>
+            <span id="book-release"></span>
+          </p>
+          <p>
+            <span class="label">Genre:</span>
+            <span id="book-genre"></span>
+          </p>
+
+          <p>
+            <span class="label">Description:</span>
+            <span id="book-description"></span>
+          </p>
+
+          <div class="download-buttons">
+            <button class="download btn">Download EPUB</button>
+            <button class="download btn">Download PDF</button>
+          </div>
+        </div>
+      </div>
+      <div class="book-right">
+        <img id="book-cover" src="" alt="Book cover" />
+      </div>
+    </main>
+    <footer>
+      <p>© 2025. All rights reserved, developed by Viktoria Kazarovi</p>
+    </footer>
+    <script src="./js/script.js"></script>
+    <script src="./js/book.js"></script>
+  </body>
+</html>

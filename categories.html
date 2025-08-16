@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Categories</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/categories.css" />
+    <link rel="stylesheet" href="./css/index.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="logo"><a href="index.html">The Digital Shelf</a></h1>
+      <nav class="navbar">
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./categories.html">Categories</a></li>
+          <li><a href="./about.html">About</a></li>
+        </ul>
+      </nav>
+      <div class="search">
+        <p>Search</p>
+        <i><img src="./assets/icons/search.png" alt="search-icon" /></i>
+        <input type="text" id="search-input" placeholder="Search books..." />
+        <div id="search-results" class="search-results"></div>
+      </div>
+      <img
+        src="./assets/icons/burger.png"
+        id="burgerBtn"
+        class="burger-menu"
+        style="display: none"
+        alt="burger-menu"
+      />
+      <nav class="mobile-menu" id="mobileMenu">
+        <img
+          src="./assets/icons/close.png"
+          class="burger-menu close"
+          id="closeBtn"
+          alt="Close"
+        />
+        <a href="./index.html">Home</a>
+        <a href="./categories.html">Categories</a>
+        <a href="./about.html">About</a>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Dropdown -->
+      <div class="category-dropdown">
+        <p id="dropdown-text">Categories</p>
+        <i class="dropdown-icon"
+          ><img src="./assets/icons/dropdown.png" alt="dropdown"
+        /></i>
+      </div>
+
+      <!-- Books section -->
+      <section class="latest-releases">
+        <div class="latest-container" id="latest-container"></div>
+        <button id="load-more" class="btn">Load More</button>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025. All rights reserved, developed by Viktoria Kazarovi</p>
+    </footer>
+
+    <script src="./js/categories.js"></script>
+    <script src="./js/script.js"></script>
+  </body>
+</html>

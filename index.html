@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Digital Shelf</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/index.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="logo"><a href="index.html">The Digital Shelf</a></h1>
+      <nav class="navbar">
+        <ul>
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./categories.html">Categories</a></li>
+          <li><a href="./about.html">About</a></li>
+        </ul>
+      </nav>
+      <div class="search">
+        <p>Search</p>
+        <i><img src="./assets/icons/search.png" alt="search-icon" /></i>
+        <input type="text" id="search-input" placeholder="Search books..." />
+        <div id="search-results" class="search-results"></div>
+      </div>
+      <img
+        src="./assets/icons/burger.png"
+        id="burgerBtn"
+        class="burger-menu"
+        style="display: none"
+        alt="burger-menu"
+      />
+      <nav class="mobile-menu" id="mobileMenu">
+        <img
+          src="./assets/icons/close.png"
+          class="burger-menu close"
+          id="closeBtn"
+          alt="Close"
+        />
+        <a href="./index.html">Home</a>
+        <a href="./categories.html">Categories</a>
+        <a href="./about.html">About</a>
+      </nav>
+    </header>
+    <main>
+      <section class="carousel-section">
+        <button class="nav prev">
+          <img src="./assets/icons/arrow_backward.png" alt="arrow backward" />
+        </button>
+        <div class="carousel-track" id="carousel-track"></div>
+        <button class="nav next">
+          <img src="./assets/icons/arrow_forward.png" alt="arrow forward" />
+        </button>
+      </section>
+
+      <section class="main-content">
+        <aside class="filters">
+          <div class="search-box">
+            <i><img src="./assets/icons/search2.png" alt="search-icon" /></i>
+            <input
+              id="categories-search"
+              type="text"
+              placeholder="Search categories and..."
+            />
+            <div id="categories-results" class="categories-results"></div>
+          </div>
+
+          <div class="category-section">
+            <div class="category-title">Popular Categories</div>
+            <ul class="category-list">
+              <li>
+                <label><input type="checkbox" /> Memory books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Novels</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Story books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Travel books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Poetry books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Biography books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Religious books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Knowledge books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Children's books</label>
+              </li>
+            </ul>
+          </div>
+          <div class="category-section">
+            <div class="category-title">New Books Categories</div>
+            <ul class="category-list">
+              <li>
+                <label><input type="checkbox" /> Memory books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Novels</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Story books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Travel books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Poetry books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Biography books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Religious books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Knowledge books</label>
+              </li>
+              <li>
+                <label><input type="checkbox" /> Children’s books</label>
+              </li>
+            </ul>
+          </div>
+        </aside>
+
+        <section class="books">
+          <h2>Find Your Next Great Read</h2>
+          <div class="book-grid" id="book-grid"></div>
+        </section>
+      </section>
+
+      <section class="latest-releases">
+        <h2>Latest Releases</h2>
+        <div class="latest-container" id="latest-container"></div>
+        <button id="load-more" class="btn">Load More</button>
+      </section>
+    </main>
+    <footer>
+      <p>© 2025. All rights reserved, developed by Viktoria Kazarovi</p>
+    </footer>
+    <script src="./js/script.js"></script>
+    <script src="./js/index.js"></script>
+  </body>
+</html>
